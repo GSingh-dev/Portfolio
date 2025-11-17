@@ -1,0 +1,39 @@
+h1,
+h2,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+}
+h3 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  background: $dark_bg;
+}
+
+* {
+  color: White;
+}
+p {
+  line-height: 175%;
+}
